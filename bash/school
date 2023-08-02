@@ -1,1 +1,2 @@
-Aother file
+#!/bin/bash
+echo "School"
